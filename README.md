@@ -11,9 +11,9 @@
   - [Python Password strength ](https://github.com/JoseN2/Password-Strength) <b><i>
 
 <h2> Certifications:</h2>
-<b>CompTIA Security + </b>
-<b>Google IT Support Professional Certificate </b>
-<b>Google Cybersecurity Certificate </b>
+-<b>CompTIA Security + </b>
+-<b>Google IT Support Professional Certificate </b>
+-<b>Google Cybersecurity Certificate </b>
 
 
 
