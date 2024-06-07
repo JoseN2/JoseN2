@@ -8,12 +8,14 @@
   - [Praciting Apache configuration file manipulation in Python](https://github.com/JoseN2/Apache-Config)
     
 - <b>Password strength tester</b>
-  - [Python Password strength ](https://github.com/JoseN2/Password-Strength) <b><i>
+  - [Python Password strength ](https://github.com/JoseN2/Password-Strength) <b><I>
+
 
 <h2> Certifications:</h2>
--<b>CompTIA Security + </b>
--<b>Google IT Support Professional Certificate </b>
--<b>Google Cybersecurity Certificate </b>
+
+- <b>CompTIA Security + </b>
+- <b>Google IT Support Professional Certificate </b>
+- <b>Google Cybersecurity Certificate </b>
 
 
 
