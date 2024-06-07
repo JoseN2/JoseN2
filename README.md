@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1>Hi, I'm Jose! <br/><a href="[https://github.com/joshmadakor1](https://github.com/JoseN2)">Programmer</a>, <a href="https://www.linkedin.com/in/jose-navarro-guerrero-9860bb218/">Cybersecurity Professional</a>, 
+<h1>Hi, I'm Jose! <br/><a href="[https://github.com/joshmadakor1](https://github.com/JoseN2)">Github Page</a>, <a href="https://www.linkedin.com/in/jose-navarro-guerrero-9860bb218/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Projects:</h2>
 
