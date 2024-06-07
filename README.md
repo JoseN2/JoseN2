@@ -10,11 +10,10 @@
 - <b>Password strength tester</b>
   - [Python Password strength ](https://github.com/JoseN2/Password-Strength) <b><i>
 
-
-
-
-
-
+<h2> Certifications:</h2>
+CompTIA Security +
+Google IT Support Professional Certificate
+Google Cybersecurity Certificate 
 
 
 
