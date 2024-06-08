@@ -18,9 +18,6 @@
 - <b>Google Cybersecurity Certificate </b>
 
 
-
-
-
  <!-- this is hidden 
 # - <b> (.NET Desktop Applications)</b>
 # - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
