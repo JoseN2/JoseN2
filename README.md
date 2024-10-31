@@ -1,4 +1,4 @@
-## Hi there 👋
+-## Hi there 👋
 
 <h1>Hi, I'm Jose! <br/><a href="[https://github.com/joshmadakor1](https://github.com/JoseN2)">Github Page</a>, <a href="https://www.linkedin.com/in/jose-navarro-guerrero-9860bb218/">Cybersecurity Professional/IT Professional</a>, 
 
