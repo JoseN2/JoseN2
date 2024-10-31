@@ -17,6 +17,7 @@
 
 
 <h2> Certifications:</h2>
+
  - <b>CompTIA Network+ In Progress </b>
 - <b>CompTIA Security + </b>
 - <b>Google IT Support Professional Certificate </b>
