@@ -4,9 +4,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b> Apache Web server</b>
-  - [Praciting Apache configuration file manipulation in Python](https://github.com/JoseN2/Apache-Config)
-    
+- <b>Cybersecurity-Awareness</b>
+  - [NetworkSecurityScan ](https://github.com/JoseN2/Cybersecurity-Awareness) <b><I>
+
 - <b>Password strength tester</b>
   - [Python Password strength ](https://github.com/JoseN2/Password-Strength) <b><I>
 
@@ -15,7 +15,9 @@
 
 - <b>Powershell Pratice</b>
   - [NetworkSecurityScan ](https://github.com/JoseN2/Powershell-Pratice) <b><I>
-
+  
+- <b> Apache Web server</b>
+  - [Praciting Apache configuration file manipulation in Python](https://github.com/JoseN2/Apache-Config)
 
 <h2> Certifications:</h2>
 
